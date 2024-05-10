@@ -6,6 +6,10 @@
     </info>
     <network>
         <nodes>
+            <node id="421" type="0">
+                <cx>0.0</cx>
+                <cy>0.0</cy>
+            </node>
             <node id="1" type="1">
                 <cx>5.7735</cx>
                 <cy>0.0</cy>
@@ -1685,10 +1689,6 @@
             <node id="420" type="1">
                 <cx>27.5302</cx>
                 <cy>-19.0735</cy>
-            </node>
-            <node id="421" type="0">
-                <cx>0.0</cx>
-                <cy>0.0</cy>
             </node>
         </nodes>
         <euclidean/>
