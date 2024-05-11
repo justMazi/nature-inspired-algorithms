@@ -1702,9 +1702,6 @@
         </vehicle_profile>
     </fleet>
     <requests>
-        <request id="0" node="1">
-            <quantity>40.0</quantity>
-        </request>
         <request id="1" node="2">
             <quantity>40.0</quantity>
         </request>
